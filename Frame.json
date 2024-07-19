@@ -1,0 +1,103 @@
+{"Ads": 
+  [
+    {
+      "banner_id":"ba924c1fc44d29ac",
+      "interstitial_id": "0ee55073fd46cb13",
+      "reward_id":"d64a59befe5cef9",
+      "natives_id":"8d9bec8b94279ed6",
+      "open_app_id":"fce5b3d0bbba9df0",
+      "interval_interstitial":4,
+      "channel_id":"9285717016",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Hari Raya",
+      "image_link": "frame/idul.webp"
+
+    },
+    {
+      "category": "Hari Nasional",
+      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+
+    },
+    {
+      "category": "Pendidikan",
+      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+
+    },
+    {
+      "category": "Lainnya",
+      "image_link": "frame/ribut.webp"
+
+    }
+  ],
+
+  "Item": [
+    {
+      "id": 1,
+      "category": "Hari Nasional",
+      "title": "Hari Batik Nasional",
+      "image_link": "frame/batik.webp"
+    },
+    {
+      "id": 2,
+      "category": "Hari Raya",
+      "title": "Idul Fitri",
+      "image_link": "frame/idul.webp"
+    },
+    {
+      "id": 3,
+      "category": "Pendidikan",
+      "title": "Olimpiade SAINS",
+      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+    },
+    {
+      "id": 4,
+      "category": "Pendidikan",
+      "title": "Olimpiade Biologi",
+      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade2.png"
+    },
+    {
+      "id": 5,
+      "category": "Hari Nasional",
+      "title": "Hari Kebangkitan Pancasila",
+      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+    },
+    {
+      "id": 6,
+      "category": "Hari Nasional",
+      "title": "Hari Sumpah Pemuda",
+      "image_link": "frame/pemuda.webp"
+    },
+    {
+      "id": 7,
+      "category": "Lainnya",
+      "title": "PKKTB 2021",
+      "image_link": "frame/pkktb.webp"
+    },
+    {
+      "id": 8,
+      "category": "Lainnya",
+      "title": "Ribut Bikin Kangen",
+      "image_link": "frame/ribut.webp"
+    },
+    {
+      "id": 9,
+      "category": "Hari Nasional",
+      "title": "Hari Santri Nasional",
+      "image_link": "frame/santri2.webp"
+    },
+    {
+      "id": 10,
+      "category": "Lainnya",
+      "title": "Ayo Divaksin",
+      "image_link": "frame/vaksin.webp"
+    }
+
+
+  ]
+}
